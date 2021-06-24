@@ -8,10 +8,12 @@ date: November 3rd, 2020
 Here’s a short story to help you understand the definition and value of a data catalog.
 
 Two data scientists walk into a library at the end of a long day....
+<br />
+<br />
 
-**Data scientist #1:** “Can I get a copy of this book on statistical methods?”
-**Data scientist #2:** “That book is super obscure. They’ll never be able to find it.”
-**The librarian** (clacks away on the keyboard for a couple of seconds before replying): “Found it! Here are the details of its author, publishing house and borrowing history. Oh, and someone left a comment saying they found it super useful for understanding logistic regressions. I can grab it for you in a jiffy.”
+**Data scientist #1:** “Can I get a copy of this book on statistical methods?”  
+**Data scientist #2:** “That book is super obscure. They’ll never be able to find it.”  
+**The librarian** (clacks away on the keyboard for a couple of seconds before replying): “Found it! Here are the details of its author, publishing house and borrowing history. Oh, and someone left a comment saying they found it super useful for understanding logistic regressions. I can grab it for you in a jiffy.”  
 **Data scientist #1:** “Ummmm… why can’t the same thing happen with our data?”
 
 But what if it could? And it turns out, that’s exactly what a data catalog can help you do.
@@ -19,6 +21,9 @@ But what if it could? And it turns out, that’s exactly what a data catalog can
 Ok, enough of the simple explanations. Here’s a more serious answer to the question, "What is a data catalog?"
 
 > > "A data catalog creates and maintains an inventory of data assets through the discovery, description and organization of distributed datasets. The data catalog provides context to enable data stewards, data/business analysts, data engineers, data scientists and other line of business (LOB) data consumers to find and understand relevant datasets for the purpose of extracting business value."
+
+<br />
+<br />
 
 ## How does a data catalog work?
 
