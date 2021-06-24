@@ -1,6 +1,8 @@
 ---
 title: What is a data catalog?
 date: November 3rd, 2020
+image:
+  path: ./../static/catalog-seo-header.png
 ---
 
 ## What is a Data Catalog?
