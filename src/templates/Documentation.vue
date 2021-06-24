@@ -40,6 +40,6 @@ body {
 }
 
 blockquote {
-  color: pink;
+  color: blue;
 }
 </style>

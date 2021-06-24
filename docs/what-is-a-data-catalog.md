@@ -10,8 +10,6 @@ image:
 Here’s a short story to help you understand the definition and value of a data catalog.
 
 Two data scientists walk into a library at the end of a long day....
-<br />
-<br />
 
 **Data scientist #1:** “Can I get a copy of this book on statistical methods?”  
 **Data scientist #2:** “That book is super obscure. They’ll never be able to find it.”  
@@ -38,6 +36,8 @@ A data catalog links data with the assets that make it meaningful — documentat
 - View and understand the lineage of the data—including the data source, the transformations applied and who has been using it.
 - Ensure data consistency and accuracy by updating itself auto-magically, while allowing humans to edit and remain in the loop.
 - Simplify data governance and compliance by providing a graphical representation of the lineage of the data assets—tracing it across its lifecycle.
+  <br />
+  <br />
 
 ## Why is a data catalog important?
 
@@ -46,3 +46,9 @@ According to Booz Allen Hamilton’s [Data Science Playbook](https://www.boozall
 We all know that data is important. But nowadays, it’s not enough to have data. Only the companies that can actually harness the enormous power of data are expected to win.
 
 The pain of siloed and missing data is real, and it’s felt across organizations. Here’s what we saw on Reddit:
+<br />
+<br />
+
+## Image Link section
+
+[![image link example](./../static/catalog-seo-header.png)](https://github.com/divyanshi-agr)
