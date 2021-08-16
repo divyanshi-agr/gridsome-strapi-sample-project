@@ -39,6 +39,10 @@ body {
   max-width: 50%;
 }
 
+h2 {
+  color: red;
+}
+
 blockquote {
   color: blue;
 }

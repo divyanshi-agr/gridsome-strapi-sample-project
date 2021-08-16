@@ -1,5 +1,5 @@
 ---
-title: What is a data catalog?
+title: What is data lineage?
 date: November 3rd, 2020
 image:
   path: ./../static/catalog-seo-header.png
@@ -20,7 +20,7 @@ But what if it could? And it turns out, that’s exactly what a data catalog can
 
 Ok, enough of the simple explanations. Here’s a more serious answer to the question, "What is a data catalog?"
 
-> "A data catalog creates and maintains an inventory of data assets through the discovery, description and organization of distributed datasets. The data catalog provides context to enable data stewards, data/business analysts, data engineers, data scientists and other line of business (LOB) data consumers to find and understand relevant datasets for the purpose of extracting business value."
+> > "A data catalog creates and maintains an inventory of data assets through the discovery, description and organization of distributed datasets. The data catalog provides context to enable data stewards, data/business analysts, data engineers, data scientists and other line of business (LOB) data consumers to find and understand relevant datasets for the purpose of extracting business value."
 
 <br />
 <br />
